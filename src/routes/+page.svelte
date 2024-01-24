@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>SPAM</title>
+</svelte:head>
+
 <div class="wrap"> 
     <div class="sence">
         <h1>이 웹사이트는 이분들의 후원으로 만드러 졌습니드ㅏ</h1>
